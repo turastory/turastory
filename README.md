@@ -1,7 +1,17 @@
 ### Hi there 👋
 
 This is my **first** profile message.  
-*How* does it appears? Is it read as a `code`?
+*Can* you see `this`!?
+
+Anyway, here's what I'm good at:
+
+- Kotlin
+- Android development
+
+What I'm interested in:
+
+- Typescript with deno
+- Rust
 
 <!--
 **turastory/turastory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
