@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-This is my **first** profile message.  
-*Can* you see `this`!?
-
-Anyway, here's what I'm good at:
+Here's what I'm good at:
 
 - Kotlin
 - Android development
