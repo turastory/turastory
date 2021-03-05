@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![readme-stats](https://github-readme-stats.vercel.app/api?username=turastory)
+
 Here's what I'm good at:
 
 - Kotlin
