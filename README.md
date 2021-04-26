@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![readme-stats](https://github-readme-stats.vercel.app/api?username=turastory)
+![readme-stats](https://github-readme-stats.vercel.app/api?username=turastory&count_private=true&show_icons=true)
 
 Here's what I'm good at:
 
