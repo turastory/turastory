@@ -2,15 +2,20 @@
 
 ![readme-stats](https://github-readme-stats.vercel.app/api?username=turastory&count_private=true&show_icons=true)
 
-Here's what I'm good at:
+🐾 What I've done:
 
-- Kotlin
-- Android development
+- Kotlin with Android Developmenr (approx. 3 years)
 
-What I'm interested in:
+🔭 I’m currently working on:
 
-- Typescript with deno
-- Rust
+- Typescript with Node for server-side development
+- Data engineering with AWS Redshift, Airflow
+- Dealing with table with over 100M rows (structured data)
+
+🖋 Blogs
+
+- [Velog](https://velog.io/@tura) - Personal Blog
+- [SL/SH Tech Blog](https://slashuniverse.com/) - Team Blog
 
 <!--
 **turastory/turastory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
