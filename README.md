@@ -4,7 +4,7 @@
 
 🐾 What I've done:
 
-- Kotlin with Android Developmenr (approx. 3 years)
+- Kotlin with Android Development (approx. 3 years)
 
 🔭 I’m currently working on:
 
@@ -15,7 +15,7 @@
 🖋 Blogs
 
 - [Velog](https://velog.io/@tura) - Personal Blog
-- [SL/SH Tech Blog](https://slashuniverse.com/) - Team Blog
+- [SL/SH Tech Blog](https://blog.slashuniverse.com/) - Team Blog
 
 <!--
 **turastory/turastory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
