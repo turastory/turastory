@@ -4,17 +4,21 @@
 
 🐾 What I've done:
 
-- Kotlin with Android Development (approx. 3 years)
+- Android App with Kotlin (approx. 3 years)
+- Server with Node.js and Typescript (approx. 1 year)
 
 🔭 I’m currently working on:
 
 - Typescript with Node for server-side development
 - Data engineering with AWS Redshift, Airflow
 - Dealing with table with over 100M rows (structured data)
+- Android Development with Jetpack Compose
+- Taking a glance at Spring
 
 🖋 Blogs
 
 - [Velog](https://velog.io/@tura) - Personal Blog
+- [Turastory](https://blog.turastory.com) - Personal Blog V2, using Gatsby and GitHub pages. (WIP)
 - [SL/SH Tech Blog](https://blog.slashuniverse.com/) - Team Blog
 
 <!--
