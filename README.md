@@ -9,10 +9,10 @@
 
 🔭 I’m currently working on:
 
-- Typescript with Node for server-side development
+- Server side development with NestJS and Typescript
 - Data engineering with AWS Redshift, Airflow
 - Dealing with table with over 100M rows (structured data)
-- Android Development with Jetpack Compose
+- Android development with Jetpack Compose
 - Taking a glance at Spring
 
 🖋 Blogs
