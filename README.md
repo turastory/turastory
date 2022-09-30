@@ -4,21 +4,18 @@
 
 🐾 What I've done:
 
+- Server with Node.js and Typescript (approx. 2 year)
 - Android App with Kotlin (approx. 3 years)
-- Server with Node.js and Typescript (approx. 1 year)
 
 🔭 I’m currently working on:
 
-- Server side development with NestJS and Typescript
-- Data engineering with AWS Redshift, Airflow
-- Dealing with table with over 100M rows (structured data)
-- Android development with Jetpack Compose
-- Taking a glance at Spring
+- Server side development using NestJS and Typescript within EKS
+- Experimenting with Rust
 
 🖋 Blogs
 
-- [Velog](https://velog.io/@tura) - Personal Blog
 - [Turastory](https://blog.turastory.com) - Personal Blog V2, using Gatsby and GitHub pages. (WIP)
+- [Velog](https://velog.io/@tura) - Personal Blog
 - [SL/SH Tech Blog](https://blog.slashuniverse.com/) - Team Blog
 
 <!--
