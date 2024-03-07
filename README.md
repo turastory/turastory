@@ -4,13 +4,8 @@
 
 🐾 What I've done:
 
-- Server with Node.js and Typescript (approx. 2 year)
+- Server with Node.js and Typescript (approx. 3 year)
 - Android App with Kotlin (approx. 3 years)
-
-🔭 I’m currently working on:
-
-- Server side development using NestJS and Typescript within EKS
-- Experimenting with Rust
 
 🖋 Blogs
 
