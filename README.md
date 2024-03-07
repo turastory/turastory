@@ -16,7 +16,6 @@
 
 - [Turastory](https://blog.turastory.com) - Personal Blog V2, using Gatsby and GitHub pages. (WIP)
 - [Velog](https://velog.io/@tura) - Personal Blog
-- [SL/SH Tech Blog](https://blog.slashuniverse.com/) - Team Blog
 
 <!--
 **turastory/turastory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
