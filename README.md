@@ -4,7 +4,7 @@
 
 🐾 What I've done:
 
-- Server with Node.js and Typescript (approx. 3 year)
+- Server with Node.js and Typescript (approx. 5 year)
 - Android App with Kotlin (approx. 3 years)
 
 🖋 Blogs
