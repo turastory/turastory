@@ -4,13 +4,18 @@
 
 🐾 What I've done:
 
-- Server with Node.js and Typescript (approx. 5 year)
-- Android App with Kotlin (approx. 3 years)
+- Server-side development with Node.js and Typescript (approx. 6 year)
+- Android app development with Kotlin (approx. 3 years)
 
 🖋 Blogs
 
-- [Turastory](https://blog.turastory.com) - Personal Blog V2, using Gatsby and GitHub pages. (WIP)
+- [Turastory](https://blog.turastory.com) - Personal Blog V2, working in progress.
 - [Velog](https://velog.io/@tura) - Personal Blog
+
+🌱 Recent Interests
+
+- Experimenting capabilities of AI (Yeah, of course, it's all over the place.)
+- Indie game development using Unity and C#.
 
 <!--
 **turastory/turastory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
