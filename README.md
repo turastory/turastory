@@ -9,13 +9,14 @@
 
 🖋 Blogs
 
-- [Turastory](https://blog.turastory.com) - Personal Blog V2, working in progress.
+Not active for now.
+
+- [Turastory](https://blog.turastory.com) - Personal Blog V2
 - [Velog](https://velog.io/@tura) - Personal Blog
 
 🌱 Recent Interests
 
-- Experimenting capabilities of AI (Yeah, of course, it's all over the place.)
-- Indie game development using Unity and C#.
+- Physics, Mathematics
 
 <!--
 **turastory/turastory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
