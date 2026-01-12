@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![readme-stats](https://github-readme-stats.vercel.app/api?username=turastory&count_private=true&show_icons=true)
-
 🐾 What I've done:
 
 - Server-side development with Node.js and Typescript (approx. 6 year)
